@@ -179,10 +179,10 @@ export default function DemographicsDashboard({ initialSubTab = 'keadaan_pendudu
               
               <div className="flex items-center gap-2">
                 <span className="text-[10px] px-2.5 py-1 bg-emerald-500/10 text-emerald-700 dark:text-emerald-400 font-extrabold rounded-lg border border-emerald-500/20">
-                  Pencatatan Aktif 2026
+                  Terakhir di data 3 Agustus 2026
                 </span>
                 <span className="text-[10px] px-2.5 py-1 bg-blue-500/10 text-blue-700 dark:text-blue-400 font-extrabold rounded-lg border border-blue-500/20">
-                  Laporan Fisik Terintegrasi
+                  Sumber: dari kantor desa
                 </span>
               </div>
             </div>
@@ -326,7 +326,7 @@ export default function DemographicsDashboard({ initialSubTab = 'keadaan_pendudu
               <div className="space-y-1">
                 <p className="font-bold text-slate-700 dark:text-slate-300">Penjelasan & Verifikasi Administrasi Desa:</p>
                 <p className="font-normal">
-                  Tabel di atas disajikan sesuai dengan dokumen fisik resmi pelaporan kependudukan desa. Terdapat selisih pencatatan minor (1 jiwa) pada total penjumlahan Penduduk Awal (LK + PR = 5.004, tertulis 5.005 pada arsip desa) dan total angka kematian (Meninggal LK tercatat pada Dusun V, namun terhitung pada kolom PR pada baris total arsip fisik). Sistem melestarikan keaslian angka dokumen fisik tersebut guna akuntabilitas laporan resmi desa.
+                  Tabel di atas disajikan sesuai dengan data yang terpajang pada papan informasi di dalam kantor desa.
                 </p>
               </div>
             </div>

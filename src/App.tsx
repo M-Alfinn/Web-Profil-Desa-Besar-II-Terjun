@@ -131,7 +131,7 @@ export default function App() {
                     {/* Image Column */}
                     <div className="md:col-span-5 relative">
                       <img
-                        src="..\assets\Foto\Tentang Desa\pak kades.png"
+                        src="\Foto\Tentang Desa\pak kades.png"
                         alt="Kepala Desa Besar II Terjun"
                         className="rounded-2xl shadow-md w-full object-cover aspect-[4/5] object-top border border-slate-100 dark:border-slate-800"
                       />
@@ -178,7 +178,7 @@ export default function App() {
                   <div className="md:col-span-5 relative">
                     <div className="aspect-[4/5] overflow-hidden border border-slate-200 dark:border-slate-800 shadow-md">
                       <img 
-                        src="..\assets\Foto\Tentang Desa\sejarah2.png" 
+                        src="\Foto\Tentang Desa\Sejarah2.png" 
                         alt="Sejarah Desa Besar II Terjun" 
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
@@ -321,7 +321,7 @@ export default function App() {
                   <div className="md:col-span-5 order-1 md:order-2">
                     <div className="aspect-[4/3] overflow-hidden border border-slate-200 dark:border-slate-800 shadow-md">
                       <img 
-                        src="..\assets\Foto\Tentang Desa\1.jpg" 
+                        src="\Foto\Tentang Desa\1.jpg" 
                         alt="Potensi Sawah & Ekonomi Desa" 
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"

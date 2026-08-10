@@ -10,9 +10,9 @@ export default function Hero({ onExplore, onAboutKKN }: HeroProps) {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const images = [
-    '../assets/Foto/Tentang Desa/1.jpg',
-    '../assets/Foto/Tentang Desa/2.jpg',
-    '../assets/Foto/Tentang Desa/3.jpg',
+    '/Foto/Tentang Desa/1.jpg',
+    '/Foto/Tentang Desa/2.jpg',
+    '/Foto/Tentang Desa/3.jpg',
   ];
 
   // Auto-play interval for background image slides

@@ -151,42 +151,42 @@ export default function KKNSection() {
 
   const kknSliderImages = [
     {
-      src: '../assets/Foto/KKN/gotong royong/1.jpg',
+      src: '/Foto/KKN/gotong royong/1.jpg',
       label: 'GERAKAN DESA BERSIH DAN PEDULI LINGKUNGAN',
       desc: 'Sinergi hangat bersama Kepala Desa Besar II Terjun, Sekretaris Desa, jajaran perangkat desa, BPD, LKMD, serta tokoh masyarakat.'
     },
     {
-      src: '../assets/Foto/KKN/les/1.jpg',
+      src: '/Foto/KKN/les/1.jpg',
       label: 'Edukreasi Anak Desa',
       desc: 'Bimbingan belajar bahasa inggris, seni tari, dan seni rupa bagi anak-anak usia sekolah dasar.'
     },
     {
-      src: '../assets/Foto/KKN/tepache/1.jpg',
+      src: '/Foto/KKN/tepache/1.jpg',
       label: 'DEMONSTRASI PEMBUATAN TEPACHE DARI KULIT NANAS',
       desc: 'Peningkatan daya saing produk anyaman pandan tradisional dan industri kuliner lokal melalui teknologi digital dan kemasan modern.'
     },
     {
-      src: '../assets/Foto/KKN/umkm/5.jpg',
+      src: '/Foto/KKN/umkm/5.jpg',
       label: 'DIGITALISASI PROMOSI UMKM DESA',
       desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
     },
     {
-      src: '../assets/Foto/KKN/sekolah/1.jpg',
+      src: '/Foto/KKN/sekolah/1.jpg',
       label: 'KOLABORASI MENGAJAR DI SD NEGERI 106192',
       desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
     },
     {
-      src: '../assets/Foto/KKN/web/1.jpg',
+      src: '/Foto/KKN/web/1.jpg',
       label: 'DIGITALISASI INFORMASI DESA BERBASIS WEBSITE DAN QR CODE',
       desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
     },
     {
-      src: '../assets/Foto/KKN/senam/1.jpg',
+      src: '/Foto/KKN/senam/1.jpg',
       label: 'GERAKAN MASYARAKAT SEHAT DAN BUGAR',
       desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
     },
     {
-      src: '../assets/Foto/KKN/lomba/1.jpg',
+      src: '/Foto/KKN/lomba/1.jpg',
       label: 'FESTIVAL EDUKASI DAN KREATIVITAS ANAK DESA',
       desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
     }
@@ -205,11 +205,11 @@ export default function KKNSection() {
       ],
       output: "Terlaksananya kegiatan gotong royong yang menciptakan lingkungan desa lebih bersih, rapi, dan nyaman serta meningkatkan kesadaran masyarakat akan pentingnya menjaga kebersihan lingkungan.",
       fotos: [
-        "../assets/Foto/KKN/gotong royong/1.jpg",
-        "../assets/Foto/KKN/gotong royong/2.png",
-        "../assets/Foto/KKN/gotong royong/3.png",
-        "../assets/Foto/KKN/gotong royong/4.png",
-        "../assets/Foto/KKN/gotong royong/5.png"
+        "/Foto/KKN/gotong royong/1.jpg",
+        "/Foto/KKN/gotong royong/2.png",
+        "/Foto/KKN/gotong royong/3.png",
+        "/Foto/KKN/gotong royong/4.png",
+        "/Foto/KKN/gotong royong/5.png"
       ],
       target: "Masyarakat Desa Besar II Terjun"
     },
@@ -230,11 +230,11 @@ export default function KKNSection() {
       ],
       output: "Terlaksananya kegiatan pembelajaran nonformal yang membantu meningkatkan kemampuan dasar, kreativitas, dan keterampilan seni anak melalui proses belajar yang interaktif, edukatif, dan menyenangkan.",
       fotos: [
-        "../assets/Foto/KKN/les/1.jpg",
-        "../assets/Foto/KKN/les/3.jpg",
-        "../assets/Foto/KKN/les/4.png",
-        "../assets/Foto/KKN/les/5.png",
-        "../assets/Foto/KKN/les/6.jpg"
+        "/Foto/KKN/les/1.jpg",
+        "/Foto/KKN/les/3.jpg",
+        "/Foto/KKN/les/4.png",
+        "/Foto/KKN/les/5.png",
+        "/Foto/KKN/les/6.jpg"
       ]
     },
     {
@@ -249,12 +249,12 @@ export default function KKNSection() {
       ],
       output: "Masyarakat memahami cara pembuatan dan manfaat tepache sebagai minuman fermentasi alami yang baik untuk kesehatan serta memiliki nilai tambah.",
       fotos: [
-        "../assets/Foto/KKN/tepache/1.jpg",
-        "../assets/Foto/KKN/tepache/2.jpg",
-        "../assets/Foto/KKN/tepache/3.jpg",
-        "../assets/Foto/KKN/tepache/4.jpg",
-        "../assets/Foto/KKN/tepache/5.jpg",
-        "../assets/Foto/KKN/tepache/6.jpg"
+        "/Foto/KKN/tepache/1.jpg",
+        "/Foto/KKN/tepache/2.jpg",
+        "/Foto/KKN/tepache/3.jpg",
+        "/Foto/KKN/tepache/4.jpg",
+        "/Foto/KKN/tepache/5.jpg",
+        "/Foto/KKN/tepache/6.jpg"
       ]
     },
     {
@@ -268,11 +268,11 @@ export default function KKNSection() {
       ],
       output: "Terbentuknya media promosi digital berupa akun Instagram dan TikTok beserta konten promosi yang dapat dimanfaatkan UMKM untuk memperkenalkan produk kepada masyarakat yang lebih luas.",
       fotos: [
-        "../assets/Foto/KKN/umkm/5.jpg",
-        "../assets/Foto/KKN/umkm/9.jpg",
-        "../assets/Foto/KKN/umkm/6.jpg",
-        "../assets/Foto/KKN/umkm/7.png",
-        "../assets/Foto/KKN/umkm/8.jpg"
+        "/Foto/KKN/umkm/5.jpg",
+        "/Foto/KKN/umkm/9.jpg",
+        "/Foto/KKN/umkm/6.jpg",
+        "/Foto/KKN/umkm/7.png",
+        "/Foto/KKN/umkm/8.jpg"
       ],
       target: "Pelaku UMKM Lokal"
     },
@@ -287,9 +287,9 @@ export default function KKNSection() {
       ],
       output: "Terlaksananya kegiatan mengajar pada berbagai mata pelajaran sehingga membantu proses pembelajaran di sekolah serta meningkatkan antusiasme dan partisipasi siswa dalam belajar.",
       fotos: [
-        "../assets/Foto/KKN/sekolah/1.jpg",
-        "../assets/Foto/KKN/sekolah/3.jpg",
-        "../assets/Foto/KKN/sekolah/4.jpg"
+        "/Foto/KKN/sekolah/1.jpg",
+        "/Foto/KKN/sekolah/3.jpg",
+        "/Foto/KKN/sekolah/4.jpg"
       ],
       target: "Siswa SD Negeri 106192"
     },
@@ -305,8 +305,8 @@ export default function KKNSection() {
       ],
       output: "Terbentuknya website informasi Desa Besar II Terjun yang terintegrasi dengan QR Code sehingga informasi desa dapat diakses dengan mudah, cepat, dan praktis oleh masyarakat.",
       fotos: [
-        "../assets/Foto/KKN/web/1.jpg",
-        "../assets/Foto/KKN/web/2.jpg"
+        "/Foto/KKN/web/1.jpg",
+        "/Foto/KKN/web/2.jpg"
       ]
     },
     {
@@ -321,11 +321,11 @@ export default function KKNSection() {
       ],
       output: "Terlaksananya kegiatan senam sehat yang diikuti dengan antusias sehingga meningkatkan kesadaran masyarakat akan pentingnya menjaga kesehatan melalui aktivitas fisik secara rutin.",
       fotos: [
-        "../assets/Foto/KKN/senam/2.jpg",
-        "../assets/Foto/KKN/senam/1.jpg",
-        "../assets/Foto/KKN/senam/6.jpg",
-        "../assets/Foto/KKN/senam/4.jpg",
-        "../assets/Foto/KKN/senam/7.jpg"
+        "/Foto/KKN/senam/2.jpg",
+        "/Foto/KKN/senam/1.jpg",
+        "/Foto/KKN/senam/6.jpg",
+        "/Foto/KKN/senam/4.jpg",
+        "/Foto/KKN/senam/7.jpg"
       ]
     },
     {
@@ -340,14 +340,14 @@ export default function KKNSection() {
       ],
       output: "Terlaksananya berbagai perlombaan yang mendorong partisipasi aktif anak-anak, meningkatkan kreativitas dan kemampuan mereka, serta menciptakan pengalaman belajar yang menyenangkan.",
       fotos: [
-        "../assets/Foto/KKN/lomba/1.jpg",
-        "../assets/Foto/KKN/lomba/2.jpg",
-        "../assets/Foto/KKN/lomba/3.jpg",
-        "../assets/Foto/KKN/lomba/5.jpg",
-        "../assets/Foto/KKN/lomba/6.jpg",
-        "../assets/Foto/KKN/lomba/7.jpg",
-        "../assets/Foto/KKN/lomba/8.jpg",
-        "../assets/Foto/KKN/lomba/9.jpg"
+        "/Foto/KKN/lomba/1.jpg",
+        "/Foto/KKN/lomba/2.jpg",
+        "/Foto/KKN/lomba/3.jpg",
+        "/Foto/KKN/lomba/5.jpg",
+        "/Foto/KKN/lomba/6.jpg",
+        "/Foto/KKN/lomba/7.jpg",
+        "/Foto/KKN/lomba/8.jpg",
+        "/Foto/KKN/lomba/9.jpg"
       ]
     }
   ];
@@ -844,30 +844,30 @@ export default function KKNSection() {
 
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 pt-4">
             {[
-              { src: '../assets/Foto/Galeri/Galeri KKN/1.jpg', label: 'Berangkat dari kampus ke desa' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/2.jpg', label: 'Pelepasan Mahasiswa KKN dari Kabupaten' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/3.jpg', label: 'Edukreasi Seni Tari' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/4.jpg', label: 'Foto Bareng di halaman perpustakaan UNIMED' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/5.jpg', label: 'Pertama kali berjumpa' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/6.jpg', label: 'Foto kece sebelum berangkat' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/7.jpg', label: 'Keliling sambil lihat sunset' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/8.jpg', label: 'Main main ke pantai' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/9.jpg', label: 'Berkunjung ke Kantor Desa' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/10.jpg', label: 'Dengan Pak Gubernur dan Bupati SUMUT' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/11.jpg', label: 'Berkunjung ke Kantor Desa' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/12.jpg', label: 'Gotong royong di Dusun III' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/13.jpg', label: 'Ulang tahun Ibu Kades' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/14.jpg', label: 'Ulang tahun Ibu Kades' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/15.jpg', label: 'Senam lansia di posyandu' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/16.jpg', label: 'Mengajar di SD Negeri 106192' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/17.jpg', label: 'Edukreasi Bahasa Inggris' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/18.jpeg', label: 'Berkunjung ke UMKM Kerei' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/19.jpg', label: 'Saat pertama kali berjuma' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/20.jpg', label: 'Hasil minuman Tepache' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/21.jpg', label: 'Mengajar ke sekolah' },
-              { src: '../assets/Foto/KKN/sekolah/4.jpg', label: 'SD Negeri Kelas 2 A' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/24.jpg', label: 'Dengan Bapak DPL' },
-              { src: '../assets/Foto/Galeri/Galeri KKN/23.jpg', label: 'Pembuatan konten UMKM Bu Kemah' },
+              { src: '/Foto/Galeri/Galeri KKN/1.jpg', label: 'Berangkat dari kampus ke desa' },
+              { src: '/Foto/Galeri/Galeri KKN/2.jpg', label: 'Pelepasan Mahasiswa KKN dari Kabupaten' },
+              { src: '/Foto/Galeri/Galeri KKN/3.jpg', label: 'Edukreasi Seni Tari' },
+              { src: '/Foto/Galeri/Galeri KKN/4.jpg', label: 'Foto Bareng di halaman perpustakaan UNIMED' },
+              { src: '/Foto/Galeri/Galeri KKN/5.jpg', label: 'Pertama kali berjumpa' },
+              { src: '/Foto/Galeri/Galeri KKN/6.jpg', label: 'Foto kece sebelum berangkat' },
+              { src: '/Foto/Galeri/Galeri KKN/7.jpg', label: 'Keliling sambil lihat sunset' },
+              { src: '/Foto/Galeri/Galeri KKN/8.jpg', label: 'Main main ke pantai' },
+              { src: '/Foto/Galeri/Galeri KKN/9.jpg', label: 'Berkunjung ke Kantor Desa' },
+              { src: '/Foto/Galeri/Galeri KKN/10.jpg', label: 'Dengan Pak Gubernur dan Bupati SUMUT' },
+              { src: '/Foto/Galeri/Galeri KKN/11.jpg', label: 'Berkunjung ke Kantor Desa' },
+              { src: '/Foto/Galeri/Galeri KKN/12.jpg', label: 'Gotong royong di Dusun III' },
+              { src: '/Foto/Galeri/Galeri KKN/13.jpg', label: 'Ulang tahun Ibu Kades' },
+              { src: '/Foto/Galeri/Galeri KKN/14.jpg', label: 'Ulang tahun Ibu Kades' },
+              { src: '/Foto/Galeri/Galeri KKN/15.jpg', label: 'Senam lansia di posyandu' },
+              { src: '/Foto/Galeri/Galeri KKN/16.jpg', label: 'Mengajar di SD Negeri 106192' },
+              { src: '/Foto/Galeri/Galeri KKN/17.jpg', label: 'Edukreasi Bahasa Inggris' },
+              { src: '/Foto/Galeri/Galeri KKN/18.jpeg', label: 'Berkunjung ke UMKM Kerei' },
+              { src: '/Foto/Galeri/Galeri KKN/19.jpg', label: 'Saat pertama kali berjuma' },
+              { src: '/Foto/Galeri/Galeri KKN/20.jpg', label: 'Hasil minuman Tepache' },
+              { src: '/Foto/Galeri/Galeri KKN/21.jpg', label: 'Mengajar ke sekolah' },
+              { src: '/Foto/KKN/sekolah/4.jpg', label: 'SD Negeri Kelas 2 A' },
+              { src: '/Foto/Galeri/Galeri KKN/24.jpg', label: 'Dengan Bapak DPL' },
+              { src: '/Foto/Galeri/Galeri KKN/23.jpg', label: 'Pembuatan konten UMKM Bu Kemah' },
             ].map((img, index) => (
               <div key={index} className="group relative rounded-2xl overflow-hidden aspect-square border border-slate-200/40 dark:border-slate-800 bg-slate-100 shadow-sm hover:shadow-lg transition-all duration-300">
                 <img
@@ -901,21 +901,21 @@ export default function KKNSection() {
                 {/* 3 Logos Row in KKNSection card */}
                 <div className="flex items-center space-x-1.5 bg-white dark:bg-slate-950 p-1.5 rounded-xl border border-slate-200/50 dark:border-slate-800/50 shrink-0 shadow-sm">
                   <img
-                    src="..\assets\Foto\Logo\unimed.png"
+                    src="\Foto\Logo\unimed.png"
                     alt="Logo UNIMED"
                     referrerPolicy="no-referrer"
                     className="h-10 w-auto object-contain hover:scale-105 transition-transform"
                     title="Universitas Negeri Medan"
                   />
                   <img
-                    src="..\assets\Foto\Logo\KKN.png"
+                    src="\Foto\Logo\KKN.png"
                     alt="Logo KKN"
                     referrerPolicy="no-referrer"
                     className="h-10 w-auto object-contain hover:scale-105 transition-transform"
                     title="KKN UNIMED 2026"
                   />
                   <img
-                    src="..\assets\Foto\Logo\Sergei.png"
+                    src="\Foto\Logo\Sergei.png"
                     alt="Logo Kecamatan"
                     referrerPolicy="no-referrer"
                     className="h-10 w-auto object-contain hover:scale-105 transition-transform"

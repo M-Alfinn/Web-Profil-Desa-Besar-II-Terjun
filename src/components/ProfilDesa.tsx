@@ -130,7 +130,7 @@ export default function ProfilDesa({ mode }: ProfilDesaProps) {
                   {/* Overlapping Image Grid with custom spacing */}
                   <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-slate-150 dark:border-slate-800 shadow-xl z-10 bg-slate-100">
                     <img
-                      src="..\assets\Foto\Tentang Desa\1.jpg"
+                      src="\Foto\Tentang Desa\1.jpg"
                       alt="Sawah Desa Besar II Terjun"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
@@ -237,7 +237,7 @@ export default function ProfilDesa({ mode }: ProfilDesaProps) {
                   <div className="space-y-4">
                     <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-slate-100">
                       <img 
-                        src="..\assets\Foto\Tentang Desa\Sejarah2.png"
+                        src="\Foto\Tentang Desa\Sejarah2.png"
                         alt="Kondisi Historis Desa"
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover"

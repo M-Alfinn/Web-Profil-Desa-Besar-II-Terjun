@@ -112,7 +112,7 @@ export default function Navbar({ currentView, subView, onNavigate }: NavbarProps
                 <div className="flex items-center space-x-1 sm:space-x-1.5 bg-white/90 dark:bg-slate-950/80 p-0.5 px-1 rounded-lg border border-slate-200/60 dark:border-slate-800/80 shrink-0 shadow-sm">
                   {/* Logo 1: Unimed */}
                   <img
-                    src="..\assets\Foto\Logo\unimed.png"
+                    src="\Foto\Logo\unimed.png"
                     alt="Logo UNIMED"
                     referrerPolicy="no-referrer"
                     className="h-6.5 sm:h-7 w-auto object-contain hover:scale-105 transition-transform"
@@ -120,7 +120,7 @@ export default function Navbar({ currentView, subView, onNavigate }: NavbarProps
                   />
                   {/* Logo 2: KKN Unimed Real Logo */}
                   <img
-                    src="..\assets\Foto\Logo\KKN.png"
+                    src="\Foto\Logo\KKN.png"
                     alt="Logo KKN"
                     referrerPolicy="no-referrer"
                     className="h-6.5 sm:h-7 w-auto object-contain hover:scale-105 transition-transform"
@@ -128,7 +128,7 @@ export default function Navbar({ currentView, subView, onNavigate }: NavbarProps
                   />
                   {/* Logo 3: Kecamatan (Kabupaten Serdang Bedagai) */}
                   <img
-                    src="..\assets\Foto\Logo\Sergei.png"
+                    src="\Foto\Logo\Sergei.png"
                     alt="Logo Kecamatan"
                     referrerPolicy="no-referrer"
                     className="h-6.5 sm:h-7 w-auto object-contain hover:scale-105 transition-transform"

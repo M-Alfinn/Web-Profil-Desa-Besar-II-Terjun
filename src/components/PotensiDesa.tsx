@@ -85,7 +85,7 @@ export default function PotensiDesa() {
                     <div className="absolute inset-0 bg-slate-950/20 group-hover:bg-transparent transition-colors duration-300 z-10" />
 
                     <img
-                      src="..\assets\Foto\Tentang Desa\5.jpg"
+                      src={potensi.gambar}
                       alt={potensi.judul}
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
@@ -148,7 +148,7 @@ export default function PotensiDesa() {
               {/* Hero Image in Modal */}
               <div className="relative h-48 sm:h-64 shrink-0">
                 <img
-                  src="..\assets\Foto\Tentang Desa\5.jpg"
+                  src="\Foto\Tentang Desa\5.jpg"
                   alt={selectedPotensi.judul}
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"

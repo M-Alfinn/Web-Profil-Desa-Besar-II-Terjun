@@ -33,21 +33,21 @@ export default function Footer({ onNavigate }: FooterProps) {
               {/* 3 Logos Row in Footer */}
               <div className="flex items-center space-x-2 bg-white/5 p-1.5 px-2 rounded-xl border border-white/10 shrink-0">
                 <img
-                  src="..\assets\Foto\Logo\unimed.png"
+                  src="\Foto\Logo\unimed.png"
                   alt="Logo UNIMED"
                   referrerPolicy="no-referrer"
                   className="h-8 w-auto object-contain hover:scale-105 transition-transform"
                   title="Universitas Negeri Medan"
                 />
                 <img
-                  src="..\assets\Foto\Logo\KKN.png"
+                  src="\Foto\Logo\KKN.png"
                   alt="Logo KKN"
                   referrerPolicy="no-referrer"
                   className="h-8 w-auto object-contain hover:scale-105 transition-transform"
                   title="KKN UNIMED 2026"
                 />
                 <img
-                  src="..\assets\Foto\Logo\Sergei.png"
+                  src="\Foto\Logo\Sergei.png"
                   alt="Logo Kecamatan"
                   referrerPolicy="no-referrer"
                   className="h-8 w-auto object-contain hover:scale-105 transition-transform"
