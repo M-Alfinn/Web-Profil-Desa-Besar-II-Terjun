@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Website Informasi Desa Besar II Terjun",
+  "description": "Media informasi digital, profil, potensi, UMKM, budaya, dan kegiatan Kelompok KKN Desa Besar II Terjun Universitas Negeri Medan (UNIMED).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

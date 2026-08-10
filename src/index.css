@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-green: #2E7D32;
+  --color-primary-green-dark: #1b5e20;
+  --color-secondary-blue: #1976D2;
+  --color-secondary-blue-dark: #115293;
+  --color-accent-gold: #D4AF37;
+  --color-accent-gold-dark: #aa8c2c;
+}
+
+@layer base {
+  html, body, #root {
+    scroll-behavior: smooth;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Abstract Pattern representing Melayu Ornaments and Waves/Lines */
+.bg-pattern-abstract {
+  background-color: transparent;
+  background-image: radial-gradient(circle at 100% 150%, var(--color-primary-green) 24%, white 24%, white 28%, var(--color-secondary-blue) 28%, var(--color-secondary-blue) 36%, transparent 36%),
+                    radial-gradient(circle at 0% 150%, var(--color-primary-green) 24%, white 24%, white 28%, var(--color-secondary-blue) 28%, var(--color-secondary-blue) 36%, transparent 36%);
+  background-size: 80px 80px;
+  opacity: 0.03;
+}
+
+.bg-pattern-waves {
+  background-image: radial-gradient(circle at 100% 150%, rgba(25, 118, 210, 0.05) 24%, transparent 24%),
+                    radial-gradient(circle at 0% 150%, rgba(46, 125, 50, 0.05) 24%, transparent 24%);
+  background-size: 60px 60px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(46, 125, 50, 0.3);
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(46, 125, 50, 0.6);
+}
+
+/* Glassmorphism Classes */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.dark .glass-panel {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-navbar {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.dark .glass-navbar {
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
