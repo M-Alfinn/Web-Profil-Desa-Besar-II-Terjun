@@ -59,7 +59,7 @@ export default function Hero({ onExplore, onAboutKKN }: HeroProps) {
               src={image}
               alt={`Lanskap Desa ${index + 1}`}
               referrerPolicy="no-referrer"
-              className="w-full h-full object-cover object-center brightness-[0.45] contrast-[1.05]"
+              className="w-full h-full object-cover object-center brightness-[0.95] contrast-[1.05]"
             />
             
             {/* Soft Overlay to guarantee typography contrast & elegance */}
