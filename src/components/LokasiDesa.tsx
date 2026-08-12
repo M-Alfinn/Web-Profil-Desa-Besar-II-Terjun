@@ -149,7 +149,7 @@ export default function LokasiDesa() {
                     <Compass className="w-4 h-4" />
                   </div>
                   <div>
-                    <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 block uppercase tracking-wider mb-0.5">Website</span>
+                    <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 block uppercase tracking-wider mb-0.5">Website resmi</span>
                     <a href="http://besarduaterjun.web.id" target="_blank" rel="noreferrer" className="font-bold text-emerald-600 dark:text-emerald-400 hover:underline break-all">
                       http://besarduaterjun.web.id
                     </a>
