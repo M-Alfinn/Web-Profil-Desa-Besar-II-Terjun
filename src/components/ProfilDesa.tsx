@@ -237,7 +237,7 @@ export default function ProfilDesa({ mode }: ProfilDesaProps) {
                   <div className="space-y-4">
                     <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-slate-100">
                       <img 
-                        src="\Foto\Tentang Desa\Sejarah2.png"
+                        src="\Foto\Fasilitas\Dusun II\Kantor Desa\1.jpg"
                         alt="Kondisi Historis Desa"
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover"

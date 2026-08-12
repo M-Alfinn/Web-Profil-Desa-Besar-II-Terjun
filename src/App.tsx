@@ -178,7 +178,7 @@ export default function App() {
                   <div className="md:col-span-5 relative">
                     <div className="aspect-[4/5] overflow-hidden border border-slate-200 dark:border-slate-800 shadow-md">
                       <img 
-                        src="\Foto\Tentang Desa\Sejarah2.png" 
+                        src="\Foto\Fasilitas\Dusun II\Kantor Desa\1.jpg" 
                         alt="Sejarah Desa Besar II Terjun" 
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"

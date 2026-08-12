@@ -878,7 +878,7 @@ export const mockKKNMembers: KKNMember[] = [
       foto: '/Foto/Anggota KKN/elda.png',
       prodi: 'Pendidikan Bahasa Inggris',
     fakultas: 'Fakultas Bahasa dan Seni',
-    instagram: 'eldandrose'
+    instagram: 'daouy_'
   },
   {
     id: 'kkn-9',
@@ -900,7 +900,7 @@ export const mockKKNMembers: KKNMember[] = [
     nim: '4232220001',
     jenisKelamin: 'P',
     divisi: 'Divisi Acara',
-    peran: 'Ngajar bimbingan matematika dasar buat anak-anak SD dengan sabar.',
+    peran: 'Merancang dan memastikan setiap rangkaian acara berjalan seru, terstruktur, dan lancar.',
     motto: 'Pendidikan akhlak dan ilmu umum beriringan demi masa depan cerah anak desa.',
     foto: '/Foto/Anggota KKN/muthia.png',
     prodi: 'Biologi',
@@ -926,7 +926,7 @@ export const mockKKNMembers: KKNMember[] = [
     nim: '7232240002',
     jenisKelamin: 'P',
     divisi: 'Divisi Humas',
-    peran: 'Ngurusin perizinan tempat dan nyebarin undangan acara posko ke rumah warga.',
+    peran: 'Menjaga alur acara tetap mengalir lancar dan menghadapi dinamika lapangan dengan tenang.',
     motto: 'Menyampaikan setiap kebaikan program kerja agar dipahami and didukung sepenuhnya.',
     foto: '/Foto/Anggota KKN/enjel.png',
     prodi: 'Ilmu Ekonomi',
