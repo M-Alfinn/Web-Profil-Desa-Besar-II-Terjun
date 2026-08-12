@@ -148,7 +148,7 @@ export default function PotensiDesa() {
               {/* Hero Image in Modal */}
               <div className="relative h-48 sm:h-64 shrink-0">
                 <img
-                  src="\Foto\Tentang Desa\5.jpg"
+                  src={selectedPotensi.gambar}
                   alt={selectedPotensi.judul}
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
