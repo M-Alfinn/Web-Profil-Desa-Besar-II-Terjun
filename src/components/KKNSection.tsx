@@ -163,32 +163,32 @@ export default function KKNSection() {
     {
       src: '/Foto/KKN/tepache/1.jpg',
       label: 'DEMONSTRASI PEMBUATAN TEPACHE DARI KULIT NANAS',
-      desc: 'Peningkatan daya saing produk anyaman pandan tradisional dan industri kuliner lokal melalui teknologi digital dan kemasan modern.'
+      desc: 'Sosialisasi dan demonstrasi pengolahan limbah kulit nanas menjadi minuman fermentasi alami tepache yang kaya probiotik dan berkhasiat bagi kesehatan tubuh.'
     },
     {
       src: '/Foto/KKN/umkm/5.jpg',
       label: 'DIGITALISASI PROMOSI UMKM DESA',
-      desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
+      desc: 'Pendampingan digitalisasi promosi pelaku UMKM melalui pembuatan konten promosi kreatif dan optimalisasi media sosial Instagram & TikTok untuk perluasan pasar.'
     },
     {
       src: '/Foto/KKN/sekolah/1.jpg',
       label: 'KOLABORASI MENGAJAR DI SD NEGERI 106192',
-      desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
+      desc: 'Pendampingan pengajaran interaktif dan edukatif di sekolah dasar guna mendukung guru, meningkatkan antusiasme siswa, dan menyemarakkan literasi.'
     },
     {
       src: '/Foto/KKN/web/1.jpg',
       label: 'DIGITALISASI INFORMASI DESA BERBASIS WEBSITE DAN QR CODE',
-      desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
+      desc: 'Rancangan dan peluncuran portal website profil desa yang terintegrasi QR Code guna mempermudah akses informasi potensi wilayah dan transparansi data.'
     },
     {
       src: '/Foto/KKN/senam/1.jpg',
       label: 'GERAKAN MASYARAKAT SEHAT DAN BUGAR',
-      desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
+      desc: 'Kegiatan senam bersama anak sekolah dasar untuk mengajak anak hidup aktif, sehat, dan bugar sejak dini.'
     },
     {
       src: '/Foto/KKN/lomba/1.jpg',
       label: 'FESTIVAL EDUKASI DAN KREATIVITAS ANAK DESA',
-      desc: 'Kolaborasi nyata dengan bidan desa membagikan makanan bergizi serta pelaksanaan gotong royong kebersihan lingkungan.'
+      desc: 'Penyelenggaraan berbagai perlombaan edukatif yang menyenangkan bagi anak-anak desa guna menyalurkan bakat, kreativitas, rasa percaya diri, dan sportivitas.'
     }
   ];
 
